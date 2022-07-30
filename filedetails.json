@@ -1,9 +1,12 @@
 {
   "ovpn_file":[
-    {"id":0,"file":"client
+    {"id":0,"file":"
+setenv FORWARD_COMPATIBLE 1
+client
 dev tun
 remote ch1.vestry.pw 80 tcp-client
 remote 179.43.176.143 80 tcp-client
+remote 179.43.176.143 80 tcp
 proto tcp
 persist-key
 persist-tun
