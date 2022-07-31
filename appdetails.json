@@ -17,6 +17,15 @@
   ],
   "free":[
     {"id":0, "file":0, "city":"Tokyo","country":"Japan","image":"japan","ip":"122.222.66.199","active":"true","signal":"a"},
-    {"id":1, "file":1, "city":"United States","country":"United States","image":"finland","ip":"65.186.62.213","active":"true","signal":"a"},
-    ]
+    {"id":1, "file":1, "city":"Ohio","country":"United States","image":"unitedstates","ip":"65.186.62.213","active":"true","signal":"a"},
+    {"id":2, "file":2, "city":"Cape Town","country":"South Africa","image":"southafrica","ip":"41.185.22.26","active":"true","signal":"a"},
+    {"id":3, "file":3, "city":"Ho Chi Minh","country":"Vietnam","image":"vietnam","ip":"118.69.188.239","active":"true","signal":"a"},
+    {"id":4, "file":4, "city":"Seongnam","country":"South Korea","image":"southkorea","ip":"59.1.161.166","active":"true","signal":"a"},
+    {"id":5, "file":5, "city":"Hong Kong","country":"China","image":"china","ip":"119.236.27.212","active":"true","signal":"a"},
+    {"id":6, "file":6, "city":"Ratchaburi","country":"Thailand","image":"thailand","ip":"223.205.19.40","active":"true","signal":"a"},
+    {"id":7, "file":7, "city":"Chelyabinsk","country":"Russia","image":"russia","ip":"109.191.154.128","active":"true","signal":"a"},
+    {"id":8, "file":8, "city":"Zulia","country":"Venezuela","image":"venezuela","ip":"206.1.158.25","active":"true","signal":"a"},
+    {"id":9, "file":9, "city":"New York","country":"United States","image":"unitedstates","ip":"173.233.73.3","active":"true","signal":"a"},
+ 
+  ]
 }
