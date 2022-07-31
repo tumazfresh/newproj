@@ -16,6 +16,6 @@
     {"id":6, "app":"com.get.client"}
   ],
   "free":[
-    {"id":0, "file":0, "city":"Tokyo","country":"Japan","image":"finland","ip":"pool-1.prd.es.madrid.ovpn.com","active":"true","signal":"a"},
+    {"id":0, "file":0, "city":"Tokyo","country":"Japan","image":"japan","ip":"122.222.66.199","active":"true","signal":"a"},
     ]
 }
